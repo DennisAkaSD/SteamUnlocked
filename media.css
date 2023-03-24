@@ -1,0 +1,1432 @@
+@media (min-width: 900px){
+    #hamburger-links{
+        opacity: 0;
+        pointer-events: none;
+    }
+}
+
+@media (max-width: 1759px){
+    .link{
+        font-size: 12px;
+        padding: 18px;
+    }
+    .dropdown-menu a{
+        font-size: 8px;
+    }
+    .dropdown-menu{
+        position: absolute;
+        left: 0;
+    }
+    .dropdown-menu button{
+        width: 100px;
+    }
+}
+
+@media (max-width: 1459px){
+    .link{
+        font-size: 11px;
+        padding: 16px;
+        position: relative;
+        left: 45px;
+    }
+
+    .titlu-1 a{
+        font-size: 25px;
+    }
+
+    .dropdown-menu{
+        position: absolute;
+        left: 42px;
+    }
+    .dropdown-menu button{
+        width: 100px;
+    }
+}
+
+@media (max-width: 1331px){
+    .link{
+        font-size: 9px;
+        padding: 13px;
+        position: relative;
+        left: 15px;
+    }
+
+    .titlu-1 a{
+        font-size: 22px;
+        position: relative;
+        right: 53px;
+    }
+
+    .dropdown-menu a{
+        font-size: 6px;
+    }
+
+    .dropdown-menu{
+        position: absolute;
+        left: 12px;
+    }
+
+    .dropdown-menu button{
+        width: 80px;
+    }
+
+    header{
+        position: relative;
+        left: -253px;
+    }
+}
+
+@media (max-width: 900px){
+    .link{
+        display: none;
+    }
+    .hamburger-fundal-rosu{
+        display: flex;
+        position: relative;
+        max-width: 600px;
+        right: -50px;
+    }
+    .titlu-1 a{
+        position: relative;
+        right: -220px;
+        font-size: 30px;
+    }
+    .background-1{
+        background-image: none;
+        background-color: black;
+    }
+    #hamburger-links{
+        position: absolute;
+        right: 150px;
+    }
+}
+
+@media (max-width: 834px){
+
+    .titlu-1 a{
+        position: relative;
+        right: -200px;
+        font-size: 30px;
+    }
+
+    #hamburger-links{
+        position: absolute;
+        right: 110px;
+    }
+
+}
+
+@media (max-width: 770px){
+
+    .titlu-1 a{
+        position: relative;
+        right: -150px;
+        font-size: 30px;
+    }
+
+    #hamburger-links{
+        position: absolute;
+        right: 80px;
+    }
+
+}
+
+@media (max-width: 730px){
+
+    .titlu-1 a{
+        position: relative;
+        right: -130px;
+        font-size: 30px;
+    }
+
+    #hamburger-links{
+        position: absolute;
+        right: 60px;
+    }
+
+}
+
+@media (max-width: 678px){
+
+    .titlu-1 a{
+        position: relative;
+        right: -130px;
+        font-size: 30px;
+    }
+
+    #hamburger-links{
+        position: absolute;
+        right: 30px;
+    }
+
+}
+
+@media (max-width: 642px){
+
+    .titlu-1 a{
+        position: relative;
+        right: -100px;
+        font-size: 30px;
+    }
+
+    #hamburger-links{
+        position: absolute;
+        right: 20px;
+    }
+
+}
+
+@media (max-width: 618px){
+
+    .titlu-1 a{
+        position: relative;
+        right: -105px;
+        font-size: 30px;
+    }
+
+    #hamburger-links{
+        position: absolute;
+        right: 10px;
+    }
+
+}
+
+@media (max-width: 582px){
+
+    .titlu-1 a{
+        position: relative;
+        right: -70px;
+        font-size: 30px;
+    }
+
+    #hamburger-links{
+        position: absolute;
+        right: -10px;
+    }
+
+}
+
+@media (max-width: 564px){
+
+    .titlu-1 a{
+        position: relative;
+        right: -70px;
+        font-size: 30px;
+    }
+
+    #hamburger-links{
+        position: absolute;
+        right: -20px;
+    }
+
+}
+
+@media (max-width: 548px){
+
+    .titlu-1 a{
+        position: relative;
+        right: -75px;
+        font-size: 25px;
+    }
+
+    #hamburger-links{
+        position: absolute;
+        right: -30px;
+    }
+
+    .hamburger-fundal-rosu{
+        position: relative;
+        left: 70px;
+    }
+
+}
+
+@media (max-width: 534px){
+
+    .titlu-1 a{
+        position: relative;
+        right: -66px;
+        font-size: 25px;
+    }
+
+    #hamburger-links{
+        position: absolute;
+        right: -45px;
+    }
+
+}
+
+@media (max-width: 492px){
+
+    .titlu-1 a{
+        position: relative;
+        right: -45px;
+        font-size: 25px;
+    }
+
+    #hamburger-links{
+        position: absolute;
+        right: -55px;
+    }
+
+}
+
+@media (max-width: 478px){
+
+    .titlu-1 a{
+        position: relative;
+        right: -50px;
+        font-size: 25px;
+    }
+
+    #hamburger-links{
+        position: absolute;
+        right: -65px;
+    }
+
+}
+
+@media (max-width: 466px){
+
+    .titlu-1 a{
+        position: relative;
+        right: -40px;
+        font-size: 20px;
+    }
+
+    #hamburger-links{
+        position: absolute;
+        right: -55px;
+    }
+
+    .hamburger-fundal-rosu{
+        position: relative;
+        left: 80px;
+    }
+}
+
+@media (max-width: 444px){
+
+    .titlu-1 a{
+        position: relative;
+        right: -30px;
+        font-size: 20px;
+    }
+
+    #hamburger-links{
+        position: absolute;
+        right: -70px;
+    }
+
+}
+
+@media (max-width: 430px){
+
+    .titlu-1 a{
+        position: relative;
+        right: -58px;
+        font-size: 15px;
+    }
+
+    #hamburger-links{
+        position: absolute;
+        right: -80px;
+    }
+
+    .hamburger-fundal-rosu{
+        position: relative;
+        left: 110px;
+    }
+
+}
+
+@media (max-width: 414px){
+
+    .titlu-1 a{
+        position: relative;
+        right: -50px;
+        font-size: 15px;
+    }
+
+    #hamburger-links{
+        position: absolute;
+        right: -95px;
+    }
+
+}
+
+@media (max-width: 392px){
+
+    .titlu-1 a{
+        position: relative;
+        right: -40px;
+        font-size: 15px;
+    }
+
+    #hamburger-links{
+        position: absolute;
+        right: -105px;
+    }
+
+}
+
+@media (max-width: 382px){
+
+    .titlu-1 a{
+        position: relative;
+        right: -40px;
+        font-size: 15px;
+    }
+
+    #hamburger-links{
+        position: absolute;
+        right: -105px;
+    }
+
+}
+
+
+@media (max-width: 378px){
+
+    .titlu-1 a{
+        position: relative;
+        right: -50px;
+        font-size: 10px;
+    }
+
+    #hamburger-links{
+        position: absolute;
+        right: -108px;
+    }
+
+    .hamburger-fundal-rosu{
+        position: relative;
+        left: 125px;
+    }
+
+}
+
+@media (max-width: 352px){
+
+    .titlu-1 a{
+        position: relative;
+        right: -40px;
+        font-size: 10px;
+    }
+
+    #hamburger-links{
+        position: absolute;
+        right: -120px;
+    }
+
+}
+
+@media (max-width: 344px){
+
+    .titlu-1 a{
+        position: relative;
+        right: -40px;
+        font-size: 10px;
+    }
+
+    #hamburger-links{
+        position: absolute;
+        right: -117px;
+    }
+
+}
+
+@media (max-width: 338px){
+
+    .titlu-1 a{
+        position: relative;
+        right: -35px;
+        font-size: 10px;
+    }
+
+    #hamburger-links{
+        position: absolute;
+        right: -110px;
+        font-size: 12px;
+        width: 200px;
+    }
+    .hamburger-fundal-rosu{
+        position: relative;
+        left: 130px;
+    }
+
+}
+
+@media (max-width: 323px){
+    .titlu-1 a{
+        position: relative;
+        right: -30px;
+        font-size: 10px;
+    }
+
+    #hamburger-links{
+        position: absolute;
+        right: -120px;
+        font-size: 12px;
+        width: 200px;
+    }
+    .hamburger-fundal-rosu{
+        position: relative;
+        left: 135px;
+    }
+
+}
+
+@media (max-width: 280px){
+
+    .titlu-1 a{
+        position: relative;
+        right: 60px;
+        font-size: 10px;
+    }
+
+    #hamburger-links{
+        position: absolute;
+        right: -65px;
+        font-size: 12px;
+        width: 190px;
+    }
+}
+
+
+
+
+
+
+@media (max-width: 1759px){
+
+    header{
+        position: relative;
+        right: 247px;
+    }
+
+    .titlu-2{
+        font-size: 30px;
+    }
+    
+    .titlu-3{
+        font-size: 40px;
+    }
+    
+    .p-1{
+        font-size: 15px;
+    }
+
+    .header-2{
+        position: relative;
+        right: 292px;
+    }
+
+}
+
+@media (max-width: 1459px){
+    .header-2{
+        position: relative;
+        right: 293px;
+    }
+
+    header{
+        position: relative;
+        right: 320px;
+    }
+}
+
+@media (max-width: 1442px){
+
+    .header-2{
+        position: relative;
+        bottom: 530px;
+    }
+
+}
+
+@media (max-width: 1399px){
+
+    .titlu-2{
+        font-size: 25px;
+    }
+    
+    .titlu-3{
+        font-size: 35px;
+    }
+    
+    .p-1{
+        font-size: 13px;
+    }
+
+    .header-2{
+        position: relative;
+        right: 230px;
+        bottom: 530px;
+    }
+
+    header{
+        position: relative;
+        right: 215px;
+    }
+
+}
+
+@media (max-width: 810px){
+
+    .header-2{
+        position: relative;
+        bottom: 530px;
+        right: 20px;
+    }
+
+    .titlu-2{
+        position: relative;
+        top: 40px;
+        font-size: 23px;
+    }
+
+    .titlu-3{
+        font-size: 30px;
+    }
+
+    .p-1{
+        font-size: 12px;
+        position: relative;
+        top: -30px;
+    }
+}
+
+@media (max-width: 760px){
+
+    .header-2{
+        position: relative;
+        bottom: 530px;
+        right: -20px;
+    }
+}
+
+@media (max-width: 700px){
+
+    .p-1{
+        position: relative;
+        top: -20px;
+        font-size: 10px;
+    }
+
+    .titlu-2{
+        position: relative;
+        top: 25px;
+        font-size: 15px;
+    }
+
+    .titlu-3{
+        font-size: 22px;
+    }
+}
+
+@media (max-width: 650px){
+
+    .header-2{
+        position: relative;
+        bottom: 530px;
+        right: -20px;
+    }
+
+    .p-1{
+        width: 350px;
+    }
+}
+
+@media (max-width: 600px){
+
+    .p-1{
+        width: 330px;
+    }
+}
+
+@media (max-width: 350px){
+    .titlu-2{
+        font-size: 10px;
+    }
+    .titlu-3{
+        font-size: 17px;
+        position: relative;
+        top: 5px;
+    }
+    .p-1{
+        position: relative;
+        top: -15px;
+        font-size: 8px;
+        width: 230px;
+    }
+}
+
+@media (max-width: 266px){
+    .titlu-2{
+        font-size: 8px;
+        position: relative;
+        top: 18px;
+    }
+    .titlu-3{
+        font-size: 11px;
+        position: relative;
+    }
+    .p-1{
+        position: relative;
+        top: -8px;
+        font-size: 7px;
+        width: 150px;
+    }
+}
+
+
+
+
+
+
+@media(max-width: 800px){
+
+    .button-1{
+        width: 120px;
+        height: 60px;
+        position: relative;
+        bottom: 30px
+    }
+}
+
+@media(max-width: 700px){
+
+    .button-1{
+        width: 100px;
+        height: 50px;
+        position: relative;
+        bottom: 20px
+        
+    }
+}
+
+@media(max-width: 350px){
+
+    .button-1{
+        width: 80px;
+        height: 40px;
+        position: relative;
+        bottom: 18px
+    }
+}
+
+@media (max-width: 300px){
+    .titlu-1 a{
+        position: relative;
+        right: 50px;
+    }
+}
+
+@media (max-width: 264px){
+    .titlu-1 a{
+        position: relative;
+        right: 70px;
+    }
+}
+
+
+
+
+
+
+
+@media (max-width: 1399px){
+    .c-1-1 img{
+        width: 130px;
+    }
+    .c-1-1{
+        width: 900px;
+        position: relative;
+        left: -50px;
+    }
+    .c-2-1 img{
+        width: 130px;
+    }
+    .c-2-1{
+        width: 900px;
+        position: relative;
+        left: -50px;
+    }
+    .c-3-1 img{
+        width: 130px;
+    }
+    .c-3-1{
+        width: 900px;
+        position: relative;
+        left: -50px;
+    }
+    .c-4-1 img{
+        width: 130px;
+    }
+    .c-4-1{
+        width: 900px;
+        position: relative;
+        left: -50px;
+    }
+    .searchbar{
+        position: relative;
+        right: 98px;
+    }
+    .t-1-1{
+        position: relative;
+        right: 342px;
+    }
+    .t-2-1{
+        position: relative;
+        right: 463px;
+    }
+    .t-3-1{
+        position: relative;
+        right: 441px;
+    }
+    .t-4-1{
+        position: relative;
+        right: 370px;
+    }
+    .b-1-1{
+        position: relative;
+        right: 80px;
+    }
+    .b-2-1{
+        position: relative;
+        right: 80px;
+    }
+    .b-3-1{
+        position: relative;
+        right: 80px;
+    }
+    .b-4-1{
+        position: relative;
+        right: 80px;
+    }
+    .main-page{
+        height: 3000px;
+    }
+}
+
+@media (max-width: 1042px){
+    header{
+        position: relative;
+        left: -180px;
+    }
+    .header-2{
+        position: relative;
+        left: -155px;
+    }
+    .searchbar{
+        position: relative;
+        right: 19px;
+    }
+    .c-1-1{
+        width: 900px;
+        position: relative;
+        left: 30px;
+    }
+    .c-2-1{
+        width: 900px;
+        position: relative;
+        left: 30px;
+    }
+    .c-3-1{
+        width: 900px;
+        position: relative;
+        left: 30px;
+    }
+    .c-4-1{
+        width: 900px;
+        position: relative;
+        left: 30px;
+    }
+    .t-1-1{
+        position: relative;
+        right: 267px;
+    }
+    .t-2-1{
+        position: relative;
+        right: 385px;
+    }
+    .t-3-1{
+        position: relative;
+        right: 360px;
+    }
+    .t-4-1{
+        position: relative;
+        right: 290px;
+    }
+    .b-1-1{
+        position: relative;
+        right: 0px;
+    }
+    .b-2-1{
+        position: relative;
+        right: 0px;
+    }
+    .b-3-1{
+        position: relative;
+        right: 0px;
+    }
+    .b-4-1{
+        position: relative;
+        right: 0px;
+    }
+}
+
+@media (max-width: 900px){
+    .c-1-1 img{
+        width: 80px;
+    }
+    .c-1-1{
+        width: 600px;
+        position: relative;
+        left: 40px;
+    }
+    .c-2-1 img{
+        width: 80px;
+    }
+    .c-2-1{
+        width: 600px;
+        position: relative;
+        left: 40px;
+    }
+    .c-3-1 img{
+        width: 80px;
+    }
+    .c-3-1{
+        width: 600px;
+        position: relative;
+        left: 40px;
+    }
+    .c-4-1 img{
+        width: 80px;
+    }
+    .c-4-1{
+        width: 600px;
+        position: relative;
+        left: 40px;
+    }
+    .searchbar{
+        position: relative;
+        right: -190px;
+        width: 400px;
+    }
+    .t-1-1{
+        position: relative;
+        right: 105px;
+    }
+    .t-2-1{
+        position: relative;
+        right: 224px;
+    }
+    .t-3-1{
+        position: relative;
+        right: 202px;
+    }
+    .t-4-1{
+        position: relative;
+        right: 132px;
+    }
+    .b-1-1{
+        position: relative;
+        right: -10px;
+        font-size: 16px;
+    }
+    .b-2-1{
+        position: relative;
+        right: -10px;
+        font-size: 16px;
+    }
+    .b-3-1{
+        position: relative;
+        right: -10px;
+        font-size: 16px;
+    }
+    .b-4-1{
+        position: relative;
+        right: -10px;
+        font-size: 16px;
+    }
+    .header-2{
+        position: relative;
+        left: -32px;
+    }
+    .main-page{
+        height: 2400px;
+    }
+}
+
+@media (max-width: 776px){
+    .searchbar{
+        position: relative;
+        right: -132px;
+    }
+}
+
+@media (max-width: 700px){
+    .header-2{
+        position: relative;
+        left: -10px;
+    }
+}
+
+@media (max-width: 678px){
+    .searchbar{
+        position: relative;
+        right: -82px;
+        width: 350px;
+    }
+    .c-1-1 img{
+        width: 400px;
+    }
+    .c-1-1{
+        width: 600px;
+        position: relative;
+        left: 40px;
+    }
+    .c-2-1 img{
+        width: 400px;
+    }
+    .c-2-1{
+        width: 600px;
+        position: relative;
+        left: 40px;
+    }
+    .c-3-1 img{
+        width: 400px;
+    }
+    .c-3-1{
+        width: 600px;
+        position: relative;
+        left: 40px;
+    }
+    .c-4-1 img{
+        width: 400px;
+    }
+    .c-4-1{
+        width: 600px;
+        position: relative;
+        left: 40px;
+    }
+    .t-1-1{
+        position: relative;
+        right: 105px;
+    }
+    .t-2-1{
+        position: relative;
+        right: 224px;
+    }
+    .t-3-1{
+        position: relative;
+        right: 202px;
+    }
+    .t-4-1{
+        position: relative;
+        right: 132px;
+    }
+    .b-1-1{
+        position: relative;
+        right: 50px;
+        font-size: 16px;
+        top: 120px;
+    }
+    .b-2-1{
+        position: relative;
+        right: 50px;
+        font-size: 16px;
+        top: 120px;
+    }
+    .b-3-1{
+        position: relative;
+        right: 50px;
+        font-size: 16px;
+        top: 120px;
+    }
+    .b-4-1{
+        position: relative;
+        right: 50px;
+        font-size: 16px;
+        top: 120px;
+    }
+    .main-page{
+        height: 27600px;
+    }
+}
+
+@media (max-width: 492px){
+    .searchbar{
+        position: relative;
+        right: -80px;
+        width: 300px;
+    }
+    .header-2{
+        position: relative;
+        left: 3px;
+    }
+    .c-1-1 img{
+        width: 250px;
+    }
+    .c-1-1{
+        width: 400px;
+        position: relative;
+        left: 60px;
+    }
+    .c-2-1 img{
+        width: 250px;
+    }
+    .c-2-1{
+        width: 400px;
+        position: relative;
+        left: 60px;
+    }
+    .c-3-1 img{
+        width: 250px;
+    }
+    .c-3-1{
+        width: 400px;
+        position: relative;
+        left: 60px;
+    }
+    .c-4-1 img{
+        width: 250px;
+    }
+    .c-4-1{
+        width: 400px;
+        position: relative;
+        left: 60px;
+    }
+    .t-1-1{
+        position: relative;
+        right: 12px;
+    }
+    .t-2-1{
+        position: relative;
+        right: 10px;
+    }
+    .t-3-1{
+        position: relative;
+        right: 7px;
+    }
+    .t-4-1{
+        position: relative;
+        right: 10px;
+    }
+    .b-1-1{
+        position: relative;
+        right: 6px;
+        font-size: 16px;
+        top: 120px;
+    }
+    .b-2-1{
+        position: relative;
+        right: 6px;
+        font-size: 16px;
+        top: 120px;
+    }
+    .b-3-1{
+        position: relative;
+        right: 6px;
+        font-size: 16px;
+        top: 120px;
+    }
+    .b-4-1{
+        position: relative;
+        right: 6px;
+        font-size: 16px;
+        top: 120px;
+    }
+    .main-page{
+        height: 18000px;
+    }
+}
+
+@media (max-width: 444px){
+    .searchbar{
+        position: relative;
+        width: 250px;
+    }
+}
+
+@media (max-width: 414px){
+    .searchbar{
+        position: relative;
+        left: 68px;
+    }
+}
+
+@media (max-width: 376px){
+    .searchbar{
+        position: relative;
+        left: 50px;
+    }
+    .c-1-1 img{
+        width: 200px;
+    }
+    .c-1-1{
+        width: 400px;
+        position: relative;
+        left: 65px;
+    }
+    .c-2-1 img{
+        width: 200px;
+    }
+    .c-2-1{
+        width: 400px;
+        position: relative;
+        left: 65px;
+    }
+    .c-3-1 img{
+        width: 200px;
+    }
+    .c-3-1{
+        width: 400px;
+        position: relative;
+        left: 65px;
+    }
+    .c-4-1 img{
+        width: 200px;
+    }
+    .c-4-1{
+        width: 400px;
+        position: relative;
+        left: 65px;
+    }
+    .t-1-1{
+        position: relative;
+        right: 30px;
+        font-size: 25px;
+    }
+    .t-2-1{
+        position: relative;
+        right: 35px;
+        font-size: 25px;
+    }
+    .t-3-1{
+        position: relative;
+        right: 30px;
+        font-size: 25px;
+    }
+    .t-4-1{
+        position: relative;
+        right: 32px;
+        font-size: 25px;
+    }
+    .b-1-1{
+        position: relative;
+        right: 32px;
+        font-size: 16px;
+        top: 120px;
+    }
+    .b-2-1{
+        position: relative;
+        right: 32px;
+        font-size: 16px;
+        top: 120px;
+    }
+    .b-3-1{
+        position: relative;
+        right: 32px;
+        font-size: 16px;
+        top: 120px;
+    }
+    .b-4-1{
+        position: relative;
+        right: 32px;
+        font-size: 16px;
+        top: 120px;
+    }
+    .main-page{
+        height: 14650px;
+    }
+}
+
+
+
+
+
+
+
+
+
+@media (max-width: 1399px){
+    footer{
+        position: relative;
+        bottom: 500px;
+    }
+    .footer-2{
+        position: relative;
+        right: -90px;
+    }
+}
+
+@media (max-width: 1042px){
+    .footer-2{
+        position: relative;
+        right: -168px;
+    }
+}
+
+@media (max-width: 900px){
+    .footer-2{
+        position: relative;
+        right: -168px;
+    }
+    .continut-footer{
+        width: 500px;
+        position: relative;
+        right: 150px;
+    }
+    .titlu-footer{
+        right: 338px;
+    }
+    .titlu-footer::after{
+        width: 490px;
+    }
+    .copyright{
+        right: 300px;
+    }
+}
+
+@media (max-width: 678px){
+    .footer-2{
+        position: relative;
+        right: -146px;
+    }
+    .continut-footer{
+        width: 400px;
+        position: relative;
+        right: 200px;
+    }
+    .titlu-footer{
+        right: 338px;
+    }
+    .titlu-footer::after{
+        width: 406px;
+    }
+    .copyright{
+        right: 300px;
+    }
+}
+
+@media (max-width: 600px){
+    .footer-2{
+        position: relative;
+        right: -180px;
+    }
+    .continut-footer{
+        width: 400px;
+        position: relative;
+        right: 200px;
+    }
+    .titlu-footer{
+        right: 338px;
+    }
+    .titlu-footer::after{
+        width: 406px;
+    }
+    .copyright{
+        right: 300px;
+    }
+}
+
+@media (max-width: 530px){
+    .footer-2{
+        position: relative;
+        right: -200px;
+    }
+    .continut-footer{
+        width: 400px;
+        position: relative;
+        right: 200px;
+    }
+    .titlu-footer{
+        right: 338px;
+    }
+    .titlu-footer::after{
+        width: 406px;
+    }
+    .copyright{
+        right: 300px;
+    }
+}
+
+@media (max-width: 492px){
+    .footer-2{
+        position: relative;
+        right: -200px;
+    }
+    .continut-footer{
+        width: 400px;
+        position: relative;
+        right: 200px;
+    }
+    .titlu-footer{
+        right: 338px;
+    }
+    .titlu-footer::after{
+        width: 406px;
+    }
+    .copyright{
+        right: 300px;
+    }
+    footer{
+        bottom: 430px;
+    }
+}
+
+@media (max-width: 422px){
+    .footer-2{
+        position: relative;
+        right: -200px;
+    }
+    .continut-footer{
+        width: 300px;
+        position: relative;
+        right: 200px;
+    }
+    .titlu-footer{
+        right: 290px;
+    }
+    .titlu-footer::after{
+        width: 306px;
+    }
+    .copyright{
+        right: 252px;
+    }
+    footer{
+        bottom: 430px;
+    }
+}
+
+@media (max-width: 280px){
+    .footer-2{
+        position: relative;
+        right: -210px;
+    }
+    .continut-footer{
+        width: 200px;
+        position: relative;
+        right: 200px;
+        font-size: 10px;
+    }
+    .titlu-footer{
+        right: 240px;
+    }
+    .titlu-footer::after{
+        width: 190px;
+    }
+    .copyright{
+        right: 202px;
+    }
+    footer{
+        bottom: 430px;
+    }
+    .categorie-1,.categorie-2,.categorie-3,.categorie-4{
+        position: relative;
+        right: 25px;
+    }
+}
